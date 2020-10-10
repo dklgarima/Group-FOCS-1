@@ -1,0 +1,42 @@
+1837
+1.	First computer was invented by Charles Babbage, known as the analytical engine, fully programmable to perform any calculations.
+2.	Analytical engine, one of the most successful achievements of Charles Babbage.
+3.
+
+
+1843
+First algorithm to calculate Bernouli numbers was written by ada Lovelance so she was considered as the first programmer.
+Algorithm was designed to work with babbage's machine 'Babbage Engine'that existed only on papers.
+She also worked on data analysis,looping and memory addressing.
+
+
+1885
+Herman Hollerith designed the first electromechanical machines known as census tabular. This machine was used to read US census data status from punched cards 65 at a time and tallying them. For instance when a punch card is given to the machine and the electrical connection made will determine the number of holes as the holes in the card with allow the connections to be completed. To take the input key punch machine was used which is the first version of keyboard. This machine became very famous as a result he made a company which was later formed International Business Machines Corporation (IBM).  
+
+
+1937
+Howard Aiken with his colleagues in collaboration with IBM began to work on ASCC Harvard Mark 1 Calculating machine , a programmable calculator(IBM automatic sequence control electromagnetic computer) which was inspired by Babbage's analytical engine. It was composed of nearly 1 million parts,had over 500 miles of wiring and weighted nearly 5 tons. The mark 1 had 60 sets of 24 switches for manual data entry and store 72 numbers, each 23 decimal digits. It could do 3 additions or substraction in a second, multiplication took 6 sec and division 15.3sec. A logarithm or trig function took about 1min. When the machine was malfulctoning due to a computer bug(dead moth) which blocked the reading holes of the machine and taking it out was the first debugging and the word debugging was coined.
+
+
+- the first electronic digital computer was built by Dr. John V. Atanasoff and Clifford Berry.
+- used to solve systems of linear equations
+
+
+
+1940
+
+1940
+- The first, called the Complex Computer, employing over 9,000 telephone relays, is completed
+- The first, called the Complex Computer, employing over 9,000 telephone relays, is completed
+- could perform one addition or subtraction every three tenths of a second
+- Programming instructions and routines were entered via paper tape.
+
+
+The group managed by George Stibitz produced several calculators.
+
+The first, called the Complex Computer, employing over 9,000 telephone relays, is completed in 1940. And is used for multiplication and division of complex numbers, it could perform one addition or subtraction every three tenths of a second.
+Programming instructions and routines were entered via paper tape. The system has a form of time-sharing.
+Six Teletype units can be connected to the computer to enter or print data.
+The system can handle multiprocessing by combining a number of computers to solve several problems concurrently.
+
+https://www.thocp.net/timeline/1940.htm#:~:text=The%20first%2C%20called%20the%20Complex,were%20entered%20via%20paper%20tape.
